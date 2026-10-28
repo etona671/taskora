@@ -1,0 +1,26 @@
+
+{
+"@@locale": "ar",
+"appTitle": "تاسك فلو",
+"homeTitle": "مهامي",
+"addTask": "إضافة مهمة",
+"editTask": "تعديل المهمة",
+"taskTitle": "العنوان",
+"description": "الوصف",
+"priority": "الأولوية",
+"lowPriority": "منخفضة",
+"mediumPriority": "متوسطة",
+"highPriority": "عالية",
+"category": "الفئة",
+"dueDate": "تاريخ الاستحقاق",
+"reminder": "التذكير",
+"allTasks": "الكل",
+"pendingTasks": "قيد التنفيذ",
+"completedTasks": "مكتملة",
+"save": "حفظ",
+"cancel": "إلغاء",
+"delete": "حذف",
+"markCompleted": "تحديد كمكتملة",
+"overdue": "متأخرة",
+"noTasks": "لا توجد مهام حتى الآن"
+}

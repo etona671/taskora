@@ -1,0 +1,26 @@
+
+{
+"@@locale": "fr",
+"appTitle": "TaskFlow",
+"homeTitle": "Mes tâches",
+"addTask": "Ajouter une tâche",
+"editTask": "Modifier la tâche",
+"taskTitle": "Titre",
+"description": "Description",
+"priority": "Priorité",
+"lowPriority": "Basse",
+"mediumPriority": "Moyenne",
+"highPriority": "Haute",
+"category": "Catégorie",
+"dueDate": "Date limite",
+"reminder": "Rappel",
+"allTasks": "Toutes",
+"pendingTasks": "En cours",
+"completedTasks": "Terminées",
+"save": "Enregistrer",
+"cancel": "Annuler",
+"delete": "Supprimer",
+"markCompleted": "Marquer comme terminée",
+"overdue": "En retard",
+"noTasks": "Aucune tâche pour le moment"
+}
